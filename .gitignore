@@ -1,0 +1,4 @@
+venv
+.env
+
+# Ignore any file you don't want to push to git here
